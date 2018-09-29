@@ -11,7 +11,7 @@ class Header extends Component {
             <div>
                 <nav class="navbar nodesktop navbar-expand-lg fixed-top navbar-light bg-info">
                     <a class="navbar-brand" href="#">
-                        <img src="doclogo.png" width="30" height="30" alt="" />
+                        <img src="appLogo.png" width="30" height="30" alt="" />
                     </a>
                     <a class="navbar-brand" href="#">Ticketing App</a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
